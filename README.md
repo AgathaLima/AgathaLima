@@ -1,4 +1,4 @@
-### Olá, mundo! Eu sou a Ágatha Lima 👋
+### Olá, mundo! Me chamo Ágatha Lima 👋
 
 
 ❤️ Apaixonada por tecnologia, aprendizado e novos desafios ❤️
