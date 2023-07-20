@@ -1,8 +1,8 @@
-### <p align="center">Olá, mundo! Me chamo Ágatha Lima 👋</p>
+### <p align="center"Hello, world! I'm Ágatha Lima 👋</p>
 <br>
 
 
-❤️ Apaixonada por tecnologia, aprendizado e novos desafios ❤️
+❤️ Passionate about technology, learning and new challenges. ❤️
 
   
 
